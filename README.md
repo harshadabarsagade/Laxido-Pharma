@@ -1,3 +1,5 @@
+# <img src="./assets/laxido_logo.png" width="220" alt="Laxido Pharmaceuticals Logo" />
+
 <div align="center">
 
 # Laxido Pharmaceuticals
