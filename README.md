@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/laxido_logo.png" width="300" alt="Laxido Pharmaceuticals Logo" />
+<img src="./assets/laxido_logo_original.png" width="450" alt="Laxido Pharmaceuticals Logo" />
 
 # Laxido Pharmaceuticals
 ### Healthcare & Medicine Solutions
