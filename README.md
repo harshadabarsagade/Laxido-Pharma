@@ -75,3 +75,7 @@ Live URL: `https://mohitraj8503.github.io/Laxido-Pharma/`
 *   **Email**: [gkverma92@gmail.com](mailto:gkverma92@gmail.com)
 *   **Phone**: [8863865036](tel:8863865036)
 *   **Copyright**: ©2026 Laxido Pharmaceuticals. All Rights Reserved.
+
+---
+
+Built by [Mohit Raj](https://github.com/mohitraj8503) — Technical Team Lead @ [Tech Tomorrow](https://techtomorrow.in)
